@@ -14,7 +14,7 @@ uv sync
 make run
 ```
 
-Then open http://127.0.0.1:5000/. The index page lists all available components.
+Then open http://127.0.0.1:6000/. The index page lists all available components.
 
 ## Adding components
 
