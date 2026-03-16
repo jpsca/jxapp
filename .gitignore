@@ -8,5 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
-display/*
-!display/example/*
+
+# Build artifacts
+static/tailwind.css
+
